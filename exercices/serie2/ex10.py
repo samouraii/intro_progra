@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 resultat = 0
-terme_addition = 0
+terme_addition = 0 # pauser la question avant, eviter de faire un teste négatif de base
 
 print("Entrez un nombre négatif pour quitter.")
 
