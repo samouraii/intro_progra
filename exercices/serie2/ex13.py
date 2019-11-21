@@ -15,7 +15,7 @@ while nb_user != nb_mystere and nb_essais != 0:
     elif nb_user < nb_mystere:
         print("Trop petit !")
         nb_essais -= 1
-    else:
+    else: #à sortire de la boucle 
         print("Gagné !")
 
 if nb_essais == 0:
